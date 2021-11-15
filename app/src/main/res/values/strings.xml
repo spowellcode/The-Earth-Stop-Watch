@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Earth Stop Watch</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="miles_traveled">Miles Traveled:</string>
+    <string name="_0">0</string>
+    <string name="seconds">Seconds:</string>
+</resources>
